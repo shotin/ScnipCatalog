@@ -5,7 +5,6 @@ require_once 'PriceSorter.php';
 require_once 'SalesPerViewSorter.php';
 require_once 'Catalog.php';
 
-
 $products = [
   //products data
   [
